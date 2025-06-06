@@ -1,6 +1,10 @@
 
 # ATM Simulator
 
+<p align="center">
+  <img src="ATM.png" alt="Project Banner" width="100%" />
+</p>
+
 A simple ATM simulator developed using Java and MySQL. It simulates basic ATM operations like user registration, login, balance management, deposits, withdrawals, and transaction history.
 
 ### Tools & Technologies:
